@@ -1,1 +1,1 @@
-winow.open("index.html")
+window.open("index.html")
