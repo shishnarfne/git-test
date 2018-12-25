@@ -1,0 +1,1 @@
+winow.open("index.html")
